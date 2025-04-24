@@ -24,7 +24,14 @@
 ![VueJs](https://img.shields.io/badge/vue.js-%23323330.svg?style=for-the-badge&logo=vue.js&logoColor=%41B883)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amceferino&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amceferino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amceferino&layout=compact&langs_count=15&theme=algolia"/>
+</a>
+</p>
 
 
 <!--
